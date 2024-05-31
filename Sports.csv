@@ -1,0 +1,85 @@
+SportID,Sport
+1,Basketball
+2,Judo
+3,Football
+4,Tug-Of-War
+5,Athletics
+6,Swimming
+7,Badminton
+8,Sailing
+9,Gymnastics
+10,Art Competitions
+11,Handball
+12,Weightlifting
+13,Wrestling
+14,Water Polo
+15,Hockey
+16,Rowing
+17,Fencing
+18,Equestrianism
+19,Shooting
+20,Boxing
+21,Taekwondo
+22,Cycling
+23,Diving
+24,Canoeing
+25,Tennis
+26,Modern Pentathlon
+27,Golf
+28,Softball
+29,Archery
+30,Volleyball
+31,Synchronized Swimming
+32,Table Tennis
+33,Baseball
+34,Rhythmic Gymnastics
+35,Rugby Sevens
+36,Trampolining
+37,Beach Volleyball
+38,Triathlon
+39,Rugby
+40,Lacrosse
+41,Polo
+42,Cricket
+43,Ice Hockey
+44,Racquets
+45,Motorboating
+46,Croquet
+47,Figure Skating
+48,Jeu De Paume
+49,Roque
+50,Basque Pelota
+51,Alpinism
+52,Aeronautics
+53,Cycling Road
+54,Artistic Gymnastics
+55,Karate
+56,Baseball/Softball
+57,Trampoline Gymnastics
+58,Marathon Swimming
+59,Canoe Slalom
+60,Surfing
+61,Canoe Sprint
+62,Cycling BMX Racing
+63,Equestrian
+64,Artistic Swimming
+65,Cycling Track
+66,Skateboarding
+67,Cycling Mountain Bike
+68,3x3 Basketball
+69,Cycling BMX Freestyle
+70,Sport Climbing
+71,Speed Skating
+72,Cross Country Skiing
+73,Biathlon
+74,Alpine Skiing
+75,Luge
+76,Bobsleigh
+77,Nordic Combined
+78,Freestyle Skiing
+79,Ski Jumping
+80,Curling
+81,Snowboarding
+82,Short Track Speed Skating
+83,Skeleton
+84,Military Ski Patrol
